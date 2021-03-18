@@ -1,9 +1,9 @@
 //we have two types of bloc
-//1. cubit lighter version
+//1. bloc.cubit lighter version
 //2. bloc heavy version
 
 //1. Cubit
-// cubit is a smaller part of bloc
+// bloc.cubit is a smaller part of bloc
 //Cubit is a light weight state management solution which is subset of bloc pattern
 //and we don't rely on actions and we have planned functions to emit new state.
 //Cubit is a special kind of stream component which is based on some functions
@@ -17,7 +17,7 @@
 
 // When should i use bloc as opposed to bloc?
   // is related how you receive input from ui
-// What is the big difference between cubit and bloc?
+// What is the big difference between bloc.cubit and bloc?
 
 
 // Major Concept
